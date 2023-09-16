@@ -1,8 +1,8 @@
-# React + Vite
+# InDAO.io
+Issuing verified credentials
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- Decentralized identifiers (DIDs)
+- Decentralized trust models
+- Zero knowledge proof protocol
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ![image](https://github.com/ShJavokhir/InDAO/assets/46817680/ab77db86-739e-4074-88b0-d81dc073b39a)
